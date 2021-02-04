@@ -1,0 +1,21 @@
+
+# This is the settings file. If you wish to edit it by hand, here's what you need to know:
+# <- starts a comment
+# config=value
+
+# The value must be either "true" or "false"
+
+# The valid configs are:
+
+# acceptNewFriends (default true)
+# acceptNonFriendWhispers (default true)
+# enableMusic (default true)
+# enableSFX (default true)
+# enableChatSound (default true)
+
+
+acceptNewFriends=true
+enableSFX=true
+acceptNonFriendWhispers=true
+enableMusic=true
+enableChatSound=true
